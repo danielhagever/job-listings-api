@@ -1,0 +1,5 @@
+{
+  "mode": "closed",
+  "company": ["stripe", "openai"],
+  "maxResults": 100
+}
